@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 # 💫 About Me:
 🚀 GitHub Repo Explorer - Your AI-Powered Code Companion 🧑‍💻🤖<br><br>Struggling to understand a GitHub repository? My Chrome extension makes it effortless! 🛠️✨<br><br>🔍 Instant Repo Insights – Get a clear summary of any GitHub repo in seconds.<br>💬 Chat with the Code – Ask questions and get AI-powered explanations.<br>📂 Navigate with Ease – Quickly explore files, functions, and dependencies.<br><br>Supercharge your GitHub experience with AI! 🚀 
 
