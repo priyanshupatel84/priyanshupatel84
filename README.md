@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgxMTA3NTgsIm5iZiI6MTc0ODExMDQ1OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI0VDE4MTQxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4NzUwNzc0YjBmYzI2YzNlMmRjMjRhMDM3ZWVhNDg1NGNhNWU3ZDhmYWQ0YTZhM2Y2YzQxZDZlODBlY2I4MGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BZmNdMGrReGKdJigoAydolBVGZV3XRsDLbLLGd0QKw4)
 # 👨‍💻 About Me :
 I’m a full-stack enthusiast who thrives on building user-centric solutions. When I’m not diving into algorithms or data structures, you’ll find me experimenting with the latest JavaScript frameworks, crafting APIs, or sketching out UI/UX designs that delight users.
 
